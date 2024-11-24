@@ -6,6 +6,7 @@
 車を持っていない方や車を手放したいと考えている方が、自分の生活圏や行動範囲を把握し、楽しいお出かけプランを立てられるよう支援することを目指しています。
 
 <img width="676" alt="image" src="https://github.com/user-attachments/assets/de1e462f-360d-4a28-97a8-f91938559a5e">
+
 [Tableau Publicにて公開中](https://public.tableau.com/app/profile/yama.viz/viz/_17317789495830/sheet0)
 
 
