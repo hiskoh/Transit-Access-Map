@@ -6,6 +6,7 @@
 車を持っていない方や車を手放したいと考えている方が、自分の生活圏や行動範囲を把握し、楽しいお出かけプランを立てられるよう支援することを目指しています。
 
 <img width="676" alt="image" src="https://github.com/user-attachments/assets/de1e462f-360d-4a28-97a8-f91938559a5e">
+[Tableau Publicにて公開中](https://public.tableau.com/app/profile/yama.viz/viz/_17317789495830/sheet0)
 
 
 ## このダッシュボードが役立つ場面
@@ -105,6 +106,7 @@ Googleマップで任意の地点を右クリックすると緯度経度が表�
 | [景観重要建造物・樹木データ](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-A35c.html)        | 国土数値情報                                | 非商用（出典・加工者等表示のうえ、非商用目的のみで利用可能）                | 2014/09      | 
 | [地域資源データ](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P19.html)                    | 国土数値情報                                | 非商用（出典・加工者等表示のうえ、非商用目的のみで利用可能）                | 2012/03      |
 | [都道府県指定文化財データ](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html)           | 国土数値情報                                | 非商用（出典・加工者等表示のうえ、非商用目的のみで利用可能）                | 2014/01      | 
+| [行政区域データ](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2024.html)           | 国土数値情報                                | [国土数値情報利用規約](https://nlftp.mlit.go.jp/ksj/other/agreement_01.html) | 2024/06      |
 
 ## その他詳細
 このプロジェクトの技術的な詳細や課題については、以下のドキュメントで詳しく解説しています。興味がある方はぜひご覧ください！
